@@ -10,5 +10,5 @@ Google Books API
 ## Deployed Site
 https://mbook-search.herokuapp.com/
 
-
-![21-mern-homework-demo-03](https://user-images.githubusercontent.com/79613288/133337373-de0f01db-9c2b-4eda-92eb-6ba56dad7533.gif)
+## Screenshot
+![Screen Shot 2021-09-14 at 5 36 35 PM](https://user-images.githubusercontent.com/79613288/133337459-f6f23349-cdbe-4afe-999e-b7f077e911ce.png)
